@@ -8,6 +8,8 @@ on:
 env:
   CXXFLAGS: "--std=c++14"
   GATSBY_CONTENTFUL_OFFLINE: "true"
+  accessToken: ${{ secrets.ACCESSTOKEN }}
+  spaceId: ${{ secrets.SPACEID }}
 
 jobs:
   build:
@@ -18,6 +20,3 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
-        secrets:
-          accessToken: ${{ secrets.ACCESSTOKEN }}
-          spaceId: ${{ secrets.SPACEID }}
