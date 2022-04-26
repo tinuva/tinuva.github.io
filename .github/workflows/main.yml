@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+env:
+  CXXFLAGS: "--std=c++14"
+
 jobs:
   build:
     runs-on: ubuntu-latest
