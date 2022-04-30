@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-	repository_dispatch:
-    	types: [publish-event]
+    repository_dispatch:
+      types: [publish-event]
   #schedule:
   #  - cron: 0 0 * * 0 # weekly
 
