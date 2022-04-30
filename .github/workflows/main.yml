@@ -7,7 +7,7 @@ on:
 
 env:
   CXXFLAGS: "--std=c++14"
-  GATSBY_CONTENTFUL_OFFLINE: "true"
+  # GATSBY_CONTENTFUL_OFFLINE: true
   accessToken: ${{ secrets.ACCESSTOKEN }}
   spaceId: ${{ secrets.SPACEID }}
 
