@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => (
   <Layout header="home">
     <SEO
       title={data.contentfulAboutMe.designation}
-      keywords={[`Rohit Gupta`, `Frontend Developer`, `Developer`]}
+      keywords={[`David Bezuidenhout`, `Support Engineer`, `Developer`]}
     />
     <Banner data={data.contentfulAboutMe}></Banner>
 
@@ -89,13 +89,9 @@ export const pageQuery = graphql`
       }
       designation
       age
-      facebook
       github
-      gmail
       id
-      instagram
       linkdin
-      twitter
       location
       description {
         childMarkdownRemark {
