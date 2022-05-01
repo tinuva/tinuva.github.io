@@ -1,4 +1,4 @@
-# Tinuva's Home Assistant config files
+# Tinuva's blog website files
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
