@@ -45,7 +45,7 @@ SOFTWARE.
 [commits]: https://github.com/tinuva/tinuva.github.io/commits/master
 [contributors]: https://github.com/tinuva/tinuva.github.io/graphs/contributors
 [frenck]: https://github.com/frenck
-[actions-shield]: https://github.com/tinuva/tinuva.github.io/workflows/Home%20Assistant%20CI/badge.svg
+[actions-shield]: https://github.com/tinuva/tinuva.github.io/workflows/Gatsby%20Publish/badge.svg
 [actions]: https://github.com/tinuva/tinuva.github.io/actions
 [home-assistant]: https://home-assistant.io
 [issue]: https://github.com/tinuva/tinuva.github.io/issues
