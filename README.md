@@ -41,10 +41,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[tinuva]: https://github.com/tinuva
 [commits-shield]: https://img.shields.io/github/commit-activity/y/tinuva/tinuva.github.io.svg
 [commits]: https://github.com/tinuva/tinuva.github.io/commits/master
 [contributors]: https://github.com/tinuva/tinuva.github.io/graphs/contributors
-[frenck]: https://github.com/frenck
 [actions-shield]: https://github.com/tinuva/tinuva.github.io/workflows/Gatsby%20Publish/badge.svg
 [actions]: https://github.com/tinuva/tinuva.github.io/actions
 [home-assistant]: https://home-assistant.io
